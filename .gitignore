@@ -1,0 +1,19 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Instance folder
+instance/
+
+# Local development files
+*.sqlite
+
+# IDE-specific files (example for Visual Studio Code)
+.vscode/
